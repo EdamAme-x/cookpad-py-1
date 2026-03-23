@@ -11,6 +11,8 @@ Support: [discord.gg/evex](https://discord.gg/evex)
 pip install cookpad
 ```
 
+（圧力により消させられたので、このリポジトリをAIに投げるかコピーして導入してください）
+
 ## 使い方
 一部の引数とかは、認証済みのtokenじゃないと動かないので注意
 
