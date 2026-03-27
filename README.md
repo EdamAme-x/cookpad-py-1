@@ -8,11 +8,13 @@ Support: [discord.gg/evex](https://discord.gg/evex)
 ## インストール
 
 ```bash
-git submodule add https://github.com/fa0311/cookpad-py.git vendor/cookpad-py
-ln -s vendor/cookpad-py/cookpad ./cookpad
+pip install git+https://github.com/fa0311/cookpad-py.git
 ```
 
+`cookpad`（PyPI）は削除済みのため、`pip install cookpad` は利用できません。
+
 ## 使い方
+
 一部の引数とかは、認証済みのtokenじゃないと動かないので注意
 
 ```python
